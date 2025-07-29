@@ -1,1 +1,9 @@
+# Netscape HTTP Cookie File
+# This file is fake and used for testing only
+
+.example.com	TRUE	/	FALSE	2147483647	sessionid	fake_session_value
+.example.com	TRUE	/	FALSE	2147483647	auth_token	fake_auth_token
+.terabox.com	TRUE	/	FALSE	2147483647	TB_ACCESS_KEY	abcd1234efgh5678ijkl
+.terabox.com	TRUE	/	FALSE	2147483647	uid	123456789
+.terabox.com	TRUE	/	FALSE	2147483647	login_token	xyz987654321
 
